@@ -6,6 +6,5 @@ To install using this script you need to do the following:
 `pacman -Sy git` <br>
 `git clone https://github.com/HelloTheGamesCorporation/ArchinstallerScript.git` <br>
 `cd ArchinstallerScript` <br>
-`cd arch-script` <br>
 `chmod +x install.sh` <br>
 `./install.sh`
